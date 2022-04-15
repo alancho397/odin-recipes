@@ -1,3 +1,2 @@
-# odin-recipes
-# Creating a website that stores recipes.
-# The website is designed to demonstrate my skills I've learned in HTML.
+# odin-recipes is a website that contains recipes sourced from allrecipes.com.
+# This project is to demonstrate the HTML and Git skills I've learned.
